@@ -14,7 +14,7 @@ export default function Home() {
          <a href="#problem" className="transition hover:text-white">
          Why OncoInference
          </a>
-         
+
          <a href="#build" className="transition hover:text-white">
          The Build
          </a>
@@ -57,7 +57,7 @@ export default function Home() {
               href="#problem"
               className="rounded-full border border-zinc-800 px-7 py-3.5 text-center text-sm font-medium text-white transition hover:border-zinc-600"
             >
-              Why inference?
+              Why Oncoinference?
             </a>
 
           </div>
