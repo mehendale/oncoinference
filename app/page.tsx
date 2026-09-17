@@ -158,7 +158,7 @@ export default function Home() {
               </p>
 
               <h2 className="mt-5 text-4xl font-medium md:text-6xl">
-                Day 2 of 90.
+                Day 3 of 90.
               </h2>
             </div>
 
